@@ -1,0 +1,1074 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>数学与大数据学院</TITLE><META Name="keywords" Content="贵州师范学院 数学 大数据" />
+
+
+
+
+
+<META content="IE=7.0000" http-equiv="X-UA-Compatible">
+<META content="IE=7.0000" http-equiv="X-UA-Compatible">
+<META content="IE=7.0000" http-equiv="X-UA-Compatible">
+<META content="IE=7.0000" http-equiv="X-UA-Compatible">
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<STYLE type="text/css">
+a{text-decoration:none;}
+
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    font-size: 18px;}
+.yh1{
+    background-image: url(index_files/bg.png);
+    background-repeat: repeat-x;}
+.yh2{
+    background-image: url(index_files/bg.png);
+    background-repeat: repeat-x;
+    background-position: 0px -150px;}
+.yh3{
+    background:#fff !important;}
+.ys1 {  color: #FFF;}
+.ys1 {
+    color: #FFF;
+    text-decoration: none;
+    text-align: left;}
+.ys01 { color: #FFF;}
+.ys09 { font-size: 12px;
+    color: #000;
+    font-weight: bold;}
+.ya {   text-align: center;}
+.ya1 {  text-align: center;}
+.yh1 td table tbody tr td strong {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size:50px;color:#fff;}
+</STYLE>
+
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="_sitegray/_sitegray_d.css" />
+<script language="javascript" src="_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230657a4654525b5742000000054253 -->
+<link rel="stylesheet" type="text/css" href="index.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1001,'/index.jsp',-1,837417814)</script>
+</HEAD>
+<BODY>   
+   
+   
+   
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script>   
+</SCRIPT>
+<TABLE border="0" cellspacing="0" cellpadding="0" width="100%">
+<TBODY>
+<TR class="yh1">
+<TD height="150">&nbsp;</TD>
+<TD height="150" valign="top" width="980">
+<TABLE width="980" height="100%">
+<TBODY>
+<TR>
+<TD valign="top" width="100"><IMG hspace="0" alt="logo" vspace="10" align="middle" src="333.png" width="88" height="89" style="width: 88px; height: 89px"></TD>
+<TD height="83" valign="center" width="633"><IMG src="index_files/6/Desktop/shuji.png" width="530" height="70"></TD>
+<TD valign="center" width="233" align="right">
+
+
+
+
+
+
+<script language="javascript" src="/system/resource/js/base64.js"></script>
+<script language="javascript" src="/system/resource/js/formfunc.js"></script>
+<form action="sousuo.jsp?wbtreeid=1001" method="post" name="a52730a" target="_blank" onsubmit="return subsearchdataa52730a()" style="display: inline;">
+ <input type="hidden" name="Find" value="find">
+ <input type="hidden" name="entrymode" value="1">
+ <input type="hidden" id="INTEXT2" name="INTEXT2" value="">
+ <input type="hidden" name="news_search_code">
+ <table border="0" cellspacing="0" cellpadding="5">
+  <tr>
+   <td Valign="middle" nowrap="nowrap" height="22">
+    
+        <input type="hidden" name="wbtreeids" value="0">
+    </td><td><span id="intextspana52730a"></span><iframe id="intextframea52730a" src="about:blank" scrolling="no" frameborder="0" style="position:absolute;top:0px;left:0px;display:none;"></iframe><input size="22" name="INTEXT" class="querystyle52730">
+   </td>
+   <td align="absmiddle" nowrap="nowrap" height="1">
+   <input type="image" src="/system/resource/images/research/seach22.gif" valign="bottom" style="cursor: hand"></td>
+  </tr>
+  
+ </table>
+</form>
+<script>
+String.prototype.trim= function()       
+{              
+    var t = this.replace(/(^\s*)|(\s*$)/g, "");     
+    return t.replace(/(^　*)|(　*$)/g, "");     
+}
+ 
+function subsearchdataa52730a()
+{ 
+	
+	if(document.a52730a.INTEXT.value.trim()=="")
+	{
+		alert("请输入查询关键字！");
+		return false;
+	}
+	
+	
+    if(checkDataa52730a(document.a52730a))
+    {
+       return true;  
+    }
+    return false;
+}       
+</script>
+
+<script language="javascript" src="_dwr/engine.js"></script>
+<script language="javascript" src="_dwr/util.js"></script>
+<script language="javascript" src="_dwr/interface/NewsSearchDWR.js"></script>
+<script language="javascript" src="/system/resource/js/vsb_news_search.js"></script> 
+<script language="javascript" src="/system/resource/js/vsb_news_search_entry.js"></script> 
+<script language="javascript" src="/system/resource/js/language.js"></script>  
+<script>    
+news_searcha52730a = new vsb_news_search();
+news_searcha52730a.isShowCode=false;
+news_searcha52730a.tooltipid = 'tooltipa52730a';
+news_searcha52730a.apptag = 'intextspana52730a';
+news_searcha52730a.frametag = 'intextframea52730a';
+news_search_entrya52730a = new vsb_news_search_entry();
+news_search_entrya52730a.formname = "a52730a";
+news_search_entrya52730a.news_search_obj = news_searcha52730a; 
+news_search_entrya52730a.querytxtsize = 167
+news_search_entrya52730a.yzmts ="您的查询过于频繁，请输入验证码后继续查询";
+news_search_entrya52730a.qdstyle ="";
+news_search_entrya52730a.qdname = "确定";
+news_search_entrya52730a.qxstyle = "";
+news_search_entrya52730a.qxname = "取消";
+news_search_entrya52730a.showstr="请输入查询验证码！";
+function checkDataa52730a(formname)
+{   
+    return news_search_entrya52730a.checkdata(formname);  
+}
+</script>
+</TD></TR>
+<TR>
+<TD valign="top" colspan="3"><style type="text/css">
+td.b1_2_{FONT-SIZE:9pt;BACKGROUND-REPEAT: no-repeat;}
+td.b2_2_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(123/menu2.png);BACKGROUND-ATTACHMENT: scroll;BACKGROUND-REPEAT: no-repeat;}
+td.b3_2_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(123/menu1.png);WIDTH: 130px;BACKGROUND-ATTACHMENT: scroll;BACKGROUND-REPEAT: no-repeat;}
+td.b4_2_{FONT-SIZE:9pt;BACKGROUND-IMAGE: url(123/menu2.png);BACKGROUND-ATTACHMENT: scroll;BACKGROUND-REPEAT: no-repeat;}
+a.menu0_2_:link {TEXT-DECORATION: none;};
+a.menu0_2_:visited { TEXT-DECORATION: none;};
+a.menu0_2_:hover {TEXT-DECORATION: none;};
+a.menu0_2_:active {TEXT-DECORATION: none;};
+table.tb1_2_{FONT-SIZE:9pt;border:0;}
+span.s1_2_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 宋体;COLOR: #000;LINE-HEIGHT: 160%;}
+span.s2_2_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 宋体;WIDTH: 110px;COLOR: #000000;PADDING-LEFT: 15px;LINE-HEIGHT: 160%;}
+span.s10_2_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 'Microsoft YaHei';COLOR: #fff;LINE-HEIGHT: 160%;}
+span.s20_2_{FONT-SIZE: 11pt;TEXT-DECORATION: none;FONT-FAMILY: 'Microsoft YaHei';WIDTH: 130px;COLOR: #000000;PADDING-LEFT: 15px;LINE-HEIGHT: 160%;}
+</style>
+<SCRIPT language="javascript"> 
+ var showfix_2_ = 1;
+ var isvertical_2_ = false;
+</SCRIPT>
+<script language="javascript" src="/system/resource/js/menu/text.js"></script>
+<TABLE id="t1_2_" cellSpacing="0" cellPadding="0" border="0" height="0" width="0"><TR><TD valign="center"></TD><TD valign="middle" height="31" width="100" nowrap class="b1_2_" align="center" id="a_2_1001" onmouseover="tshowLayers('1001','b2_2_', '_2_')" onmouseout="thideLayers('1001','b1_2_', '_2_','false','true')"><a class="menu0_2_" href="index.htm"><span class="currentfontStyle52554">&nbsp;首页&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1006" onmouseover="tshowLayers('1006','b2_2_', '_2_')" onmouseout="thideLayers('1006','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xygk/xyfz.htm"><span class="fontstyle52554">&nbsp;院情概况&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1015" onmouseover="tshowLayers('1015','b2_2_', '_2_')" onmouseout="thideLayers('1015','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="djgz/zzjg.htm"><span class="fontstyle52554">&nbsp;党建天地&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1029" onmouseover="tshowLayers('1029','b2_2_', '_2_')" onmouseout="thideLayers('1029','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="ghzj/jsdw.htm"><span class="fontstyle52554">&nbsp;教育教学&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1099" onmouseover="tshowLayers('1099','b2_2_', '_2_')" onmouseout="thideLayers('1099','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://mcs.gznc.edu.cn/rcpy/zyjs.htm"><span class="fontstyle52554">&nbsp;人才培养&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1053" onmouseover="tshowLayers('1053','b2_2_', '_2_')" onmouseout="thideLayers('1053','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="jpkc1.htm"><span class="fontstyle52554">&nbsp;招生就业&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1067" onmouseover="tshowLayers('1067','b2_2_', '_2_')" onmouseout="thideLayers('1067','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xsky/xsky.htm"><span class="fontstyle52554">&nbsp;学术科研&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1024" onmouseover="tshowLayers('1024','b2_2_', '_2_')" onmouseout="thideLayers('1024','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xsgz/x_s_h.htm"><span class="fontstyle52554">&nbsp;学生天地&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1077" onmouseover="tshowLayers('1077','b2_2_', '_2_')" onmouseout="thideLayers('1077','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="xyml.htm"><span class="fontstyle52554">&nbsp;校友名录&nbsp;</span></a></TD><TD valign="center"></TD><TD valign="middle" width="100" nowrap class="b1_2_" align="center" id="a_2_1036" onmouseover="tshowLayers('1036','b2_2_', '_2_')" onmouseout="thideLayers('1036','b1_2_', '_2_','true','true')"><a class="menu0_2_" href="http://www.gznc.edu.cn/"><span class="fontstyle52554">&nbsp;学校首页&nbsp;</span></a></TD></TR></TR><TR><td align="left" nowrap></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1006" onmouseover="tshownull('1006','b2_2_', '_2_')" onmouseout="thideLayers('1006','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/xyjj1.htm"><span class="ejfontstyle52554">&nbsp;历史沿革&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/xyfz.htm"><span class="ejfontstyle52554">&nbsp;学院发展&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/xyld.htm"><span class="ejfontstyle52554">&nbsp;领导介绍&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/ysjg.htm"><span class="ejfontstyle52554">&nbsp;组织机构&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/xyjj11.htm"><span class="ejfontstyle52554">&nbsp;岗位职责&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xygk/xyjj5.htm"><span class="ejfontstyle52554">&nbsp;联系我们&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1015" onmouseover="tshownull('1015','b2_2_', '_2_')" onmouseout="thideLayers('1015','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="djgz/zcfg.htm"><span class="ejfontstyle52554">&nbsp;党建活动&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="djgz/xxyd.htm"><span class="ejfontstyle52554">&nbsp;理论学习&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="djgz/zcfg1.htm"><span class="ejfontstyle52554">&nbsp;组织机构&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="djgz/zcfg2.htm"><span class="ejfontstyle52554">&nbsp;党员发展&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1029" onmouseover="tshownull('1029','b2_2_', '_2_')" onmouseout="thideLayers('1029','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="ghzj/jsdw.htm"><span class="ejfontstyle52554">&nbsp;教师队伍&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="ghzj/gzdt.htm"><span class="ejfontstyle52554">&nbsp;教学管理&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1099" onmouseover="tshownull('1099','b2_2_', '_2_')" onmouseout="thideLayers('1099','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="rcpy/zyjs.htm"><span class="ejfontstyle52554">&nbsp;专业介绍&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="rcpy/pyfa.htm"><span class="ejfontstyle52554">&nbsp;培养方案&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1053" onmouseover="tshownull('1053','b2_2_', '_2_')" onmouseout="thideLayers('1053','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="jpkc1/jygz.htm"><span class="ejfontstyle52554">&nbsp;就业工作&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="jpkc1/zsgz.htm"><span class="ejfontstyle52554">&nbsp;招生工作&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="http://zhaojiu.gznc.edu.cn/" target="_blank"><span class="ejfontstyle52554">&nbsp; 招  就  网&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1067" onmouseover="tshownull('1067','b2_2_', '_2_')" onmouseout="thideLayers('1067','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsky/kyzc.htm"><span class="ejfontstyle52554">&nbsp;管理政策&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsky/xsyj1.htm"><span class="ejfontstyle52554">&nbsp;学术交流&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsky/yjcg1.htm"><span class="ejfontstyle52554">&nbsp;研究成果&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1024" onmouseover="tshownull('1024','b2_2_', '_2_')" onmouseout="thideLayers('1024','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsgz/x_s_h.htm"><span class="ejfontstyle52554">&nbsp;学 生 会&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsgz/xshj.htm"><span class="ejfontstyle52554">&nbsp;社团组织&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsgz/xshd1.htm"><span class="ejfontstyle52554">&nbsp;学生活动&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xsgz/tyzj.htm"><span class="ejfontstyle52554">&nbsp;团员之家&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap><DIV class="main_2_" id="layer_2_1077" onmouseover="tshownull('1077','b2_2_', '_2_')" onmouseout="thideLayers('1077','b1_2_', '_2_','true')" style="z-index:99999;display: none; POSITION: absolute;"><TABLE align="center" class="tb1_2_" cellSpacing="0" cellPadding="0" border="0"><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xyml/bymd.htm"><span class="ejfontstyle52554">&nbsp;毕业名单&nbsp;</span></a></TD></tr><tr><TD height="31" align="left" nowrap onmouseover="TOVT(this,'b4_2_', '_2_');" onmouseout="TOUT(this,'b3_2_', '_2_');" class="b3_2_">
+<A class="menu0_2_" href="xyml/xyjy.htm"><span class="ejfontstyle52554">&nbsp;校友风采&nbsp;</span></a></TD></tr></table></div></td><td></td><td align="left" nowrap></td><td></td></TR></table></TD></TR></TBODY></TABLE></TD>
+<TD height="150">&nbsp;</TD></TR>
+<TR class="yh2">
+<TD height="370" align="center">&nbsp;</TD>
+<TD class="yh3" height="370" valign="center" rowspan="2" width="980" align="center"><style type="text/css">
+ul,li{
+    padding:0;
+    margin:0;
+    list-style:none;}
+#flashBoxu_u3_{
+    width:1008px;
+    height:350px;
+    border:0px solid #EEE;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;}
+#flashBoxu_u3_ img{
+    /*初始不要显示*/
+    display:none;
+    /*用边框来实现空位，因为margin和paading有时会引起些麻烦*/
+    border:0px solid #FFF;}
+#flashBoxu_u3_ ul{
+    position:absolute;
+    right:7px;
+    bottom:3px;
+    font:9px tahoma;}
+#flashBoxu_u3_ ul li{
+    display:block;
+    float:left;
+    width:12px;
+    height:12px;
+    line-height:12px;
+    margin-right:3px;
+    border:0px solid #999;
+    background:#F0F0F0;
+    text-align:center;
+    cursor:pointer;}
+#flashBoxu_u3_ ul li.hover{
+    border-color:red;
+    background:#FFE1E1;
+    color:red;}
+</style>
+<script type="text/javascript">
+function flashBoxCtrl(o){
+    this.obj=document.getElementById(o);
+    //这个私有方法虽然写了，但暂时没用到
+    function addListener(ele,eventName,functionBody){
+        if (ele.attachEvent){
+            ele.attachEvent("on"+eventName, functionBody);
+        }else if (ele.addEventListener){
+            ele.addEventListener("on"+eventName,functionBody, false);
+        }else{
+            return false;
+        }
+    }
+    //初始化
+    this.init=function(){
+        var objImg=this.obj.getElementsByTagName("img");
+        var tagLength=objImg.length;
+        if (tagLength>0){
+            var oUl=document.createElement("ul");
+            oUl.setAttribute("id",o+"numTag");
+            for (var i=0;i<tagLength;i++){
+                var oLi=oUl.appendChild(document.createElement("li"));
+                if (i==0){
+                    oLi.setAttribute("class","hover"); //初始化时把第一个设置为高亮
+                    oLi.setAttribute("className","hover");
+                }
+                //设置标签的数字
+                oLi.appendChild(document.createTextNode((i+1)));
+            }
+            this.obj.appendChild(oUl);
+            objImg[0].style.display="block";
+            //设置标签事件
+            var oTag=this.obj.getElementsByTagName("li");
+            for (var i=0;i<oTag.length;i++){
+                var flag = 0;
+                var temp = 0;
+                var timeout=null;
+                var step = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    this.className="hover";
+                    flag = flag>=oTag.length-1?0:flag+1;
+                    objImg[flag].style.display="block";
+                    oTag[flag].className = "hover";
+                    timeout = setTimeout(step,10000);
+                };
+                oTag[i].onmouseover=function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                        temp = j;
+                    }
+                    this.className="hover";
+                    objImg[this.innerHTML-1].style.display="block";
+                    temp = this.innerHTML-1;
+                    flag = i;
+                    clearInterval(timeout);
+                }
+                oTag[i].onmouseout = function(){
+                    for (j=0;j<oTag.length;j++){
+                        oTag[j].className="";
+                        objImg[j].style.display="none";
+                    }
+                    flag = temp;
+                    objImg[temp].style.display="block";
+                    oTag[temp].className = "hover";
+                    timeout = setTimeout(step,10000);
+                }
+                if(i==0)
+                {
+                    timeout = setTimeout(step,10000);
+                }
+            }
+        }
+    };
+    //自动滚动的方法还没写
+    this.imgRoll=function(){};
+    //生成对象时自动加载init()方法以初始化对象
+    this.init();
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0"><tr><td><div id="flashBoxu_u3_"><a href="http://news.gznc.edu.cn/info/1086/14416.htm"><img src="1111111111111.jpg" border="0" width="1008" height="350" alt="数学建模一等奖" title="数学建模一等奖" /></a><a href="http://news.gznc.edu.cn/info/1087/13389.htm"><img src="1234.jpg" border="0" width="1008" height="350" /></a><img src="images/fanzhu1.jpg" border="0" width="1008" height="350" /><a href="http://news.gznc.edu.cn/info/1010/7597.htm"><img src="2ofuj3th851.jpg" border="0" width="1008" height="350" alt="优秀辅导员" title="优秀辅导员" /></a><img src="images/9900.jpg" border="0" width="1008" height="350" /><img src="123/5.jpg" border="0" width="1008" height="350" /></div></td></tr></table><SCRIPT language="JavaScript">new flashBoxCtrl("flashBoxu_u3_");</SCRIPT></TD>
+<TD height="370">&nbsp;</TD></TR>
+<TR></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD height="410" valign="top" width="980" align="center">
+<TABLE border="0" cellspacing="0" cellpadding="0" width="980">
+<TBODY>
+<TR>
+<TD height="220">
+<TABLE width="980" align="center">
+
+
+
+
+
+<TBODY>
+<TR>
+<TD height="30"><IMG border="0" hspace="0" src="images/new22.png" width="500" height="30" usemap="#xyxw"></TD>
+<TD height="30"><IMG border="0" hspace="0" src="images/new11.png" width="476" height="32" usemap="#tzgg"></TD></TR>
+<TR>
+<TD height="170" valign="top" align="left"><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6795.htm" class="c52580" title="数学与大数据学院教师第一党支部召开新一届支部委员全体会议" target="_blank">
+        数学与大数据学院教师第一党支部召开新一届支...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6794.htm" class="c52580" title="数学与大数据学院学生第二党支部换届选举党员大会顺利召开" target="_blank">
+        数学与大数据学院学生第二党支部换届选举党员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6793.htm" class="c52580" title="数学与大数据学院教师第二党支部召开新一届支部委员会第一次会议" target="_blank">
+        数学与大数据学院教师第二党支部召开新一届支...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6792.htm" class="c52580" title="“继往开来，砥砺前行”——数学与大数据学院教师第二党支部换届选举党员大会顺利召开" target="_blank">
+        “继往开来，砥砺前行”——数学与大数据学院...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6791.htm" class="c52580" title="迷彩飘扬，军歌嘹亮——数学与大数据学院2021级新生军训顺利进行中" target="_blank">
+        迷彩飘扬，军歌嘹亮——数学与大数据学院2021...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6790.htm" class="c52580" title="数学与大数据学院教师第一党支部换届选举党员大会顺利召开" target="_blank">
+        数学与大数据学院教师第一党支部换届选举党员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6789.htm" class="c52580" title="数学与大数据学院开展2020-2021年度省三好、省优干、校优干、校先进班集体答辩评审会" target="_blank">
+        数学与大数据学院开展2020-2021年度省三好、省...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/27</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6788.htm" class="c52580" title="丽琼工作室举行“花样迎中秋，共度团圆夜”中秋活动" target="_blank">
+        丽琼工作室举行“花样迎中秋，共度团圆夜”中...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6787.htm" class="c52580" title="数学与大数据学院学生第一党支部召开新一届支部委员会第一次会议" target="_blank">
+        数学与大数据学院学生第一党支部召开新一届支...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6786.htm" class="c52580" title="“不忘初心，砥砺前行”——数学与大数据学院学生第一党支部换届选举党员大会顺利召开" target="_blank">
+        “不忘初心，砥砺前行”——数学与大数据学院...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6778.htm" class="c52580" title="数学与大数据学院学生第三党支部开展 新一届支部委员会第一次全体委员会议" target="_blank">
+        数学与大数据学院学生第三党支部开展 新一届支...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52580">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1091/6777.htm" class="c52580" title="数学与大数据学院学生第三党支部 换届选举党员大会顺利召开" target="_blank">
+        数学与大数据学院学生第三党支部 换届选举党员...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52580" width="1%" nowrap>2021/09/23</td></tr>
+</table></TD>
+<TD height="170" valign="top"><table width="100%" cellspacing="3" cellpadding="0">
+  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/6456.htm" class="c52374" title="数学与大数据学院2021年西部计划志愿者综合成绩公示" target="_blank">
+        数学与大数据学院2021年西部计划志愿者综合成...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2021/06/09</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/5423.htm" class="c52374" title="数学与大数据学院2020年西部计划拟录取名单公示" target="_blank">
+        数学与大数据学院2020年西部计划拟录取名单公...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2020/07/02</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/5395.htm" class="c52374" title="数学与大数据学院2020年西部计划志愿者综合成绩公示" target="_blank">
+        数学与大数据学院2020年西部计划志愿者综合成...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2020/06/23</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/4223.htm" class="c52374" title="关于召开2019届毕业生就业工作会的通知" target="_blank">
+        关于召开2019届毕业生就业工作会的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2019/03/26</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/4127.htm" class="c52374" title="数大学院关于开展2018年下半年党员发展工作的通知" target="_blank">
+        数大学院关于开展2018年下半年党员发展工作的...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2018/12/13</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/4130.htm" class="c52374" title="关于切实做好金融基础知识学习专题教育的通知" target="_blank">
+        关于切实做好金融基础知识学习专题教育的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2018/12/10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/4129.htm" class="c52374" title="数学与大数据学院关于开展诚信教育工作的通知 " target="_blank">
+        数学与大数据学院关于开展诚信教育工作的通知 
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2018/12/10</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/4128.htm" class="c52374" title="数学与大数据学院关于开展“展礼仪风采做文明学生”教育活动的通知" target="_blank">
+        数学与大数据学院关于开展“展礼仪风采做文明...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2018/12/03</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/3347.htm" class="c52374" title="数学与计算机科学学院关于开展学习十九大精神宣讲的通知" target="_blank">
+        数学与计算机科学学院关于开展学习十九大精神...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2017/11/15</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/2952.htm" class="c52374" title="关于开展主题党日活动的通知" target="_blank">
+        关于开展主题党日活动的通知
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2017/06/12</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/2857.htm" class="c52374" title="数计学院2017届毕业实习、毕业论文（设计）总结暨2018届毕业实习、毕业论文（设计）动员大会" target="_blank">
+        数计学院2017届毕业实习、毕业论文（设计）总...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2017/05/04</td></tr>  
+<tr><td align="center" valign="middle" width="10" nowrap><span class="leaderfont52374">·</span></td>
+<td valign="middle" align="left">
+    
+    
+        <a href="info/1092/2855.htm" class="c52374" title="数学与计算机科学学院转发“关于转发《中共贵州省委教育工委转​发中共教育部党组关于印发&lt;普通高等学校学生党建工作标准&gt;的通​知》的通知”" target="_blank">
+        数学与计算机科学学院转发“关于转发《中共贵...
+        </a>
+        
+        
+        
+            </td>
+        
+        <td valign="middle" align="right" class="timestyle52374" width="1%" nowrap>2017/04/28</td></tr>
+</table></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="45">
+<TABLE width="980" align="center">
+<TBODY>
+
+<TBODY>
+<TR>
+<TD height="30"><IMG border="0" hspace="0" src="images/new33.png" width="980" height="30" usemap="#xyxw"></TD>
+
+<TR>
+<TD height="170" valign="top" align="left">
+
+
+<script language="javascript" src="/system/resource/js/vsbpreloadimg.js"></script>
+<SCRIPT language="JavaScript">
+<!--
+ var u_u6_imgs = new VsbPreloadImgArray();
+ //初始化图片
+ function u_u6_init_img()
+ {
+ 
+  u_u6_imgs.addImg("\/__local\/6\/AA\/7A\/1E878591BC0647527468A878BA2_0CEF86BF_6DBE.png", "u_u6_img0", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/A\/04\/D6\/9199AE6FFF369219F9E5F811A45_1BF37504_6352.png", "u_u6_img1", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/E\/9B\/DE\/7D30B14CBA0FB027DDED926D47C_9DE2257D_C19A.png", "u_u6_img2", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/E\/6F\/19\/D401339AC3D08B1BD6AF810BDDD_D1076BDA_2526.png", "u_u6_img3", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/D\/D7\/20\/249E493B37BD20982C513E82D88_AD8D73A2_129A7.jpg", "u_u6_img4", u_u6_onimgload);
+ 
+  u_u6_imgs.addImg("\/__local\/4\/F1\/B7\/31139553D085DCDCFB90267D3DB_D026048C_BADE.png", "u_u6_img5", u_u6_onimgload);
+ 
+ }
+ function u_u6_onimgload(img, imgid)
+ {
+  img.showImg(document.getElementById(imgid), 100, 80, false, false, false);
+ }
+//-->
+</SCRIPT>
+<table class="winstyle126670" border="0">
+    <tr><td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1093/3725.htm" target="_blank"><img id="u_u6_img0" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1093/3725.htm" target="_blank"><span class="titlestyle126670" title="数学与计算机科学学院第四届辩论赛总决赛圆满落幕">
+                              数学与计算机科学学院第四届...</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                         2018年5月24日，数学与计算机科学学院（以下简称数计学院）在宁静楼152举行了“感恩奋进，激辩人生”主题辩论赛决赛。数计学院学生团委副书记及贵州师范学院第二届诤言...<a border="0" href="info/1093/3725.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    <td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1093/3724.htm" target="_blank"><img id="u_u6_img1" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1093/3724.htm" target="_blank"><span class="titlestyle126670" title="数学与计算机科学学院举办“感恩奋进，激辩生”主题辩论赛">
+                              数学与计算机科学学院举办“...</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                             2018年5月17日，数学与计算机科学学院（以下简称数计学院）在致远楼403、404教室举办“感恩奋进，激辩人生”主题辩论赛初赛。此次初赛特邀数计学院学生党支部副书...<a border="0" href="info/1093/3724.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr><tr><td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1027/3626.htm" target="_blank"><img id="u_u6_img2" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1027/3626.htm" target="_blank"><span class="titlestyle126670" title="“歌舞青春，炫动五协”联谊晚会">
+                              “歌舞青春，炫动五协”联谊晚会</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                        ​  金秋送爽，丹桂飘香。为了加强各个社团之间的交流，增进社团之间的情谊。2017年11月30日晚，由共青团贵州师范学院委员会主办，天澪崒月动漫社承办，大学生社团联合...<a border="0" href="info/1027/3626.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    <td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1027/3531.htm" target="_blank"><img id="u_u6_img3" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1027/3531.htm" target="_blank"><span class="titlestyle126670" title="天澪萃月动漫社桌游研究交流会">
+                              天澪萃月动漫社桌游研究交流会</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                        【本报道 贵州师范学院天澪萃月动漫社报道】2017年11月26日下午17：30，天澪萃月动漫社社员在逸夫楼306教室进行桌游研究交流会，各位成员积极参与其中。               ...<a border="0" href="info/1027/3531.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr><tr><td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1027/3430.htm" target="_blank"><img id="u_u6_img4" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1027/3430.htm" target="_blank"><span class="titlestyle126670" title="家教协会 精准助残•共享一片盛世蓝天">
+                              家教协会 精准助残•共享一片...</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                                                        ——林桧阳光家园结业典礼取得圆满成功12月3日，2017年“国际残疾人日”、“国家宪法日”、“国家志愿者日”庆祝活动暨“贵阳市第二期...<a border="0" href="info/1027/3430.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    <td valign="top">
+                    <table cellpadding="3" cellspacing="0" align="left" bgcolor="#f5f5f5" style="margin-right:0px;border:1px solid black;"><tr><td width="100" height="80" valign="middle" align="center"><div style="overflow:hidden;height:80px;width:100px"><a border="0" href="info/1076/3412.htm" target="_blank"><img id="u_u6_img5" border="0" src="/system/resource/images/loading.gif"></a></div></td></tr></table>
+                            <div align="center">
+                                <a href="info/1076/3412.htm" target="_blank"><span class="titlestyle126670" title="牢记嘱托，感恩奋进学习十九大精神交流研讨会 简报">
+                              牢记嘱托，感恩奋进学习十九...</span></a> 
+                              <span> </span>
+                                  
+                              </div>
+                                      
+                    <div class="summarystyle126670">
+                        ​数学与计算机科学学院团委学生会	          2017年11月17日主题：牢记嘱托，感恩奋进学习十九大精神交流研讨会时间：2017年11月17日地点：宁静楼152教室内容：这次活...<a border="0" href="info/1076/3412.htm" target="_blank"><span>[详细]</span></a>
+                    </div>
+                    
+            </td>
+                    </tr>
+</table><SCRIPT language="JavaScript">u_u6_init_img();</SCRIPT></TD>
+<TR>
+<TD height="45">
+<TABLE width="980" align="center">
+<TBODY>
+
+
+
+
+
+
+<TR>
+<TD height="40"><IMG hspace="0" src="images/2.png" width="980" height="39"></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD height="166" valign="top" width="980">
+<TABLE width="980" cellSpacing="0" cellPadding="0" align="center" border="0"> 
+    <TR><TD>
+        <DIV id="u_u7_demo" style="OVERFLOW:hidden;WIDTH:980px;COLOR:#ffffff"><TABLE cellSpacing="0" cellPadding="0" border="0">
+                <TR><TD id="u_u7_demo1" vAlign="top" width="980"><table border="0" cellpadding="0" cellspacing="0" width="980">
+                        <tr>
+
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td>
+                            <td valign="top" align="center" style="padding-left:1px;padding-right:2px"><div style="padding: 0px; width:200px"><table cellpadding="0" cellspacing="0" style="border:1px solid black;">
+                                    <tr><td width="200" height="150" valign="middle" align="center"><img name="u_u7_img" border="0" src="/system/resource/images/loading.gif" alt="" title="" hspace="0" vspace="0"></td></tr>
+                                </table></div><div style="padding-top:1px;padding-bottom:1px">
+                            <span class="titlestyle52699"></span>
+                            
+
+                          </div></td></tr>
+           </table></TD> 
+          <TD id="u_u7_demo2" vAlign="top" width="980"></TD> 
+        </TR> 
+      </TABLE> 
+      </DIV> 
+    </TD> 
+  </TR> 
+</TABLE> 
+<SCRIPT language="javascript">
+    var u_u7_imgs = new VsbPreloadImgArray();
+    
+    //初始化图片
+    function u_u7_init_img()
+    {
+
+            u_u7_imgs.addImg("images\/_thumb\/5E1DE7E3D37215BAE095206CC64_CC5AEB8F_6AA25.png", "0", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/2B6A34A4EBECF5CBBE56A850902_460DAD11_1513E.jpg", "1", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/2892644EC99559B12FA14D6061A_36B42DC7_E09AB.png", "2", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1BDD4140D5861629DCF0FD5638A_BD5A79AC_1AABA.jpg", "3", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/2028C6695D78FCDBD7D55DD063E_139FC09B_D374D.png", "4", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1F2E557C72036A0779543DE094E_B043D84D_E09AB.png", "5", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1AED6FD0C4D31354E98648D338D_68889BFC_17E2C.jpg", "6", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1F53C03510E04B45AF2EF84B984_03FE219A_12DB2.jpg", "7", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1815C8E1BF6B97B3765A809C28C_3955CE3A_E759.jpg", "8", u_u7_onimgload);
+
+            u_u7_imgs.addImg("images\/_thumb\/1461F9247E68CD4956047A103AA_821395D6_16825.jpg", "9", u_u7_onimgload);
+
+    }
+    function u_u7_onimgload(img, imgid)
+    {
+        var imgobjs = document.getElementsByName("u_u7_img");
+        var imgindex = new Number(imgid);
+        
+        img.showImg(imgobjs[imgindex], 200, 150, true, true);
+        img.showImg(imgobjs[imgindex+ 10], 200, 150, true, true);
+    }
+
+
+    var u_u7_MyMar;
+    var u_u7_speed3;
+    var u_u7_move = true;
+    var u_u7_movenum = 0;
+    var u_u7_pos = null; //td位置组
+    
+    function u_u7_initpos()
+    {
+        u_u7_pos = new Array();
+        
+        var tds1 = document.getElementById("u_u7_demo1").childNodes[0].rows[0].cells;
+        
+        for(i = 0 ;i < tds1.length; i++)
+        {
+            u_u7_pos[u_u7_pos.length] = tds1[i].offsetLeft;
+        }
+        
+        var tds2 = document.getElementById("u_u7_demo2").childNodes[0].rows[0].cells;
+        var tds2offset = document.getElementById("u_u7_demo2").offsetLeft;
+        for(i = 0 ;i < tds2.length; i++)
+        {
+            u_u7_pos[u_u7_pos.length] = tds2[i].offsetLeft + tds2offset;
+        }
+    }
+    
+    function u_u7_getpos(scrollpos)
+    {
+        for(i = 0; i < u_u7_pos.length; i++)
+        {
+            if(scrollpos < u_u7_pos[i])
+                return i-1;
+        }
+    }
+
+
+    function u_u7_Marquee() 
+    { 
+        try 
+        { 
+            if(!u_u7_move)
+                return;
+            
+            var demoobj = document.getElementById("u_u7_demo");
+            var demo1obj = document.getElementById("u_u7_demo1");
+
+            //滚动步长
+            var scrollstep = 1
+            
+            //当前位置
+            var oldscrollLeft = demoobj.scrollLeft;
+            
+            //更新后的位置, 已考虑过回滚
+            var newscrollLeft = (oldscrollLeft + scrollstep)%demo1obj.scrollWidth;
+
+            
+            demoobj.scrollLeft = newscrollLeft; 
+            
+        } 
+        catch(e) 
+        { 
+        } 
+    } 
+
+    function u_u7_clearInterval()
+    {
+        clearInterval(u_u7_MyMar);
+    }
+    
+    function u_u7_setInterval()
+    {
+        u_u7_MyMar = setInterval(u_u7_Marquee,u_u7_speed3);
+    }
+    
+    function u_u7_stopmove()
+    {
+        u_u7_move = false;
+    }
+
+    function u_u7_startmove()
+    {
+        u_u7_move = true;
+    }
+    
+    function u_u7_init()
+    {
+        u_u7_speed3 = 50;
+        if(u_u7_speed3 < 1)
+        {
+            u_u7_speed3 = 1;
+        }
+        
+        document.getElementById("u_u7_demo").onmouseover = u_u7_stopmove;
+        document.getElementById("u_u7_demo").onmouseout = u_u7_startmove;
+
+        document.getElementById("u_u7_demo2").innerHTML = document.getElementById("u_u7_demo1").innerHTML;
+        
+        u_u7_init_img();
+
+        u_u7_setInterval();
+
+    }
+    
+    u_u7_init();
+</SCRIPT></TD></TR></TBODY></TABLE></TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD height="150" valign="center" colspan="3" align="center" style="background-image: url(bottom.jpg); background-repeat: repeat-x">
+<P>&nbsp;</P>
+
+
+
+
+<table><tr>
+        
+        <td>
+            <A class="c52657" HREF="email.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1096" onclick="_addDynClicks('wburl',837417814,5924)" target="_blank">
+            	 领导信箱 
+            </A>
+             
+        </td>
+            <td class="leaderstyle52657">|</td>
+        
+        <td>
+            <A class="c52657" HREF="xygk/xyfz.htm" onclick="_addDynClicks('wburl',837417814,5923)" target="_blank">
+            	 关于我们 
+            </A>
+             
+        </td>
+            <td class="leaderstyle52657">|</td>
+        
+        <td>
+            <A class="c52657" HREF="http://oa.gznc.edu.cn/" onclick="_addDynClicks('wburl',837417814,5784)" target="_blank" title="办公系统">
+            	 办公系统 
+            </A>
+             
+        </td>
+            <td class="leaderstyle52657">|</td>
+        
+        <td>
+            <A class="c52657" HREF="zlxz.htm" onclick="_addDynClicks('wburl',837417814,5927)" target="_blank">
+            	 资料下载 
+            </A>
+             
+        </td>
+            </tr>
+</table><p style="text-align: center"><span style="font-family: 微软雅黑,Microsoft YaHei"></span>数学与大数据学院&nbsp;&nbsp;地址：贵阳市乌当区高新路115号<br />电话：0851-85816641&nbsp;&nbsp;邮编：550018<br /></p>&nbsp; </TD></TR></TBODY></TABLE><MAP id="xyxw" name="xyxw"><AREA href="http://mcs.gznc.edu.cn/jpkc/zyxw.htm" shape="RECT" alt="学院新闻" coords="450,0,490,30"></MAP><MAP id="tzgg" name="tzgg"><AREA href="http://mcs.gznc.edu.cn/jpkc/tzgg.htm" shape="RECT" alt="通知公告" coords="430,0,470,30"></MAP>
+
+</BODY></HTML>

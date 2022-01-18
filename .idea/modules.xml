@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ajax01/01-ajax01.iml" filepath="$PROJECT_DIR$/01-ajax01/01-ajax01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_mybatis01/02_mybatis01.iml" filepath="$PROJECT_DIR$/02_mybatis01/02_mybatis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_mybatis02/02_mybatis02.iml" filepath="$PROJECT_DIR$/02_mybatis02/02_mybatis02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_mybatis03/02_mybatis03.iml" filepath="$PROJECT_DIR$/02_mybatis03/02_mybatis03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crm code.iml" filepath="$PROJECT_DIR$/.idea/crm code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspaceForGit01/workspaceForGit01.iml" filepath="$PROJECT_DIR$/workspaceForGit01/workspaceForGit01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspaceForGit02/workspaceForGit02.iml" filepath="$PROJECT_DIR$/workspaceForGit02/workspaceForGit02.iml" />
+    </modules>
+  </component>
+</project>
